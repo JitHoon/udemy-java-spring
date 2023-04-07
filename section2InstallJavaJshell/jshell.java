@@ -1,3 +1,4 @@
+package section2InstallJavaJshell;
 /*
  * 1. 실행
  *
